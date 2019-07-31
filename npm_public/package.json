@@ -1,0 +1,28 @@
+{
+  "name": "graphio-lazy",
+  "version": "1.0.0",
+  "description": "laid back version of Graphio, allowing minimal setup graphing!",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Azurethi/Graphio-Lazy.git"
+  },
+  "keywords": [
+    "graphing",
+    "canvas",
+    "data",
+    "analysis",
+    "diagram",
+    "lazy",
+    "fast"
+  ],
+  "author": "Azurethi",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/Azurethi/Graphio-Lazy/issues"
+  },
+  "homepage": "https://github.com/Azurethi/Graphio-Lazy#readme"
+}
