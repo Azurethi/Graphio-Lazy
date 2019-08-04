@@ -24,5 +24,10 @@
   "bugs": {
     "url": "https://github.com/Azurethi/Graphio-Lazy/issues"
   },
-  "homepage": "https://github.com/Azurethi/Graphio-Lazy#readme"
+  "homepage": "https://github.com/Azurethi/Graphio-Lazy#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "graphio": "^1.0.0",
+    "socket.io": "^2.2.0"
+  }
 }
