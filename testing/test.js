@@ -1,3 +1,8 @@
-const graphioLazy = require('../npm_public/index');
+const gl = require('../npm_public/index');
 
-console.log(graphioLazy());
+
+gl.addCmd('test', (command,res)=>{
+    res.msg('Yay, a test!');
+});
+
+gl.init();
