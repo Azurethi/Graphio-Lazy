@@ -27,7 +27,7 @@
   "homepage": "https://github.com/Azurethi/Graphio-Lazy#readme",
   "dependencies": {
     "express": "^4.17.1",
-    "graphio": "^1.0.0",
+    "graphio": "^1.0.1",
     "socket.io": "^2.2.0"
   }
 }
